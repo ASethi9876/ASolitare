@@ -1,0 +1,14 @@
+C:\Users\asher\source\repos\ASolitare\ASolitare\bin\Debug\net8.0\ASolitare.exe
+C:\Users\asher\source\repos\ASolitare\ASolitare\bin\Debug\net8.0\ASolitare.deps.json
+C:\Users\asher\source\repos\ASolitare\ASolitare\bin\Debug\net8.0\ASolitare.runtimeconfig.json
+C:\Users\asher\source\repos\ASolitare\ASolitare\bin\Debug\net8.0\ASolitare.dll
+C:\Users\asher\source\repos\ASolitare\ASolitare\bin\Debug\net8.0\ASolitare.pdb
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\ASolitare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\ASolitare.AssemblyInfoInputs.cache
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\ASolitare.AssemblyInfo.cs
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\ASolitare.csproj.CoreCompileInputs.cache
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\ASolitare.dll
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\refint\ASolitare.dll
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\ASolitare.pdb
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\ASolitare.genruntimeconfig.cache
+C:\Users\asher\source\repos\ASolitare\ASolitare\obj\Debug\net8.0\ref\ASolitare.dll
